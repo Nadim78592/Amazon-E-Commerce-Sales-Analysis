@@ -1,33 +1,50 @@
-📊 Amazon E-Commerce Sales Analysis
+# 📊 Amazon E-Commerce Sales Analysis
 
-This project focuses on analyzing Amazon product sales performance to identify revenue trends, buyer behavior, category contribution and seasonal insights. The goal of this analysis is to convert raw e-commerce transactional data into meaningful business insights that can support decision making around product strategy, pricing, inventory & marketing.
+> **Turning e-commerce transaction data into actionable sales and customer insights.**
 
-🛠 Tools & Skills Used
+An end-to-end analytics project using **SQL, Python and Power BI** to understand revenue performance, product/category contribution, customer behavior and seasonality.
 
-Power BI – Interactive dashboard, visual analysis, KPI cards, category trends
+## 🎯 Business Objective
 
-Python (Pandas, NumPy, Matplotlib) – Exploratory Data Analysis & preprocessing
+Analyze e-commerce sales performance and identify patterns that can support decisions around **product strategy, pricing, inventory and marketing**.
 
-SQL – Querying, filtering, grouping & summary level insights
+## 🛠️ Tools & Technologies
 
-Key Analysis Performed
+| Tool | Purpose |
+| --- | --- |
+| **SQL** | Querying, filtering, aggregation & business analysis |
+| **Python** | Data cleaning, preprocessing & exploratory analysis |
+| **Pandas / NumPy** | Data manipulation & analysis |
+| **Matplotlib** | Exploratory visualization |
+| **Power BI** | KPI reporting & interactive dashboard |
 
-Overall Sales Trends (Daily / Monthly)
+## 🔍 Analysis Areas
 
-Top Performing Categories & Items
+- 📈 Daily and monthly sales trends
+- 🏆 Top-performing categories and products
+- ⭐ Ratings and review distribution
+- 🚚 Channel, fulfillment and shipment patterns where available
+- 📅 Seasonal sales behavior
+- 👥 Customer preference signals
 
-Average Rating & Review Distribution impact on sales
+## 💡 Key Insights
 
-Channel / Fulfillment / Shipment Pattern Analysis (if available)
+- Electronics and Home categories show strong revenue contribution.
+- Higher-rated products show stronger repeat-buyer signals in the analysis.
+- Certain categories demonstrate noticeable seasonal spikes.
 
-Seasonal peaks & business seasonality behavior
+## 📁 Project Files
 
-Consumer preference behavior signals through category wise performance
+- **Power BI:** `amazon website.pbix`
+- **Dashboard / Analysis:** PDF reports included in the repository
+- **README:** Project documentation
 
-Insights Summary (Examples)
+## 📊 Dashboard Preview
 
-Electronics and Home categories contribute maximum revenue share
+The repository includes the exported dashboard/analysis PDFs for quick review.
 
-Higher rating products show higher repeat buyer conversion
+## 👤 Author
 
-Certain categories show strong seasonal spikes (festival spikes visible)
+**Md Nadim** — Data Analyst | Business Analytics | FP&A
+
+[LinkedIn](https://linkedin.com/in/md-nadim-7b563723) · [Email](mailto:mdnadim78592@gmail.com)
